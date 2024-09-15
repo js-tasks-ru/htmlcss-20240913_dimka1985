@@ -1,0 +1,18 @@
+html, body {
+  font-family: consolas, 'Times New Roman', serif;
+
+  height: 100%;
+  width: 100%;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 100%;
+}
+
+.hello-world {
+  font-size: 40px;
+}
