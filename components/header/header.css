@@ -1,0 +1,16 @@
+.header {
+  background-color: #fff;
+  padding: 96px 0 77px;
+}
+
+.header__title {
+  font-family: Inter;
+  font-size: 50px;
+  font-weight: 500;
+  line-height: 64px;
+}
+
+.footer__description {
+  max-width: 640px;
+  margin: 0 auto;
+}
