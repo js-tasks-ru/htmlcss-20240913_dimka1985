@@ -1,6 +1,11 @@
 @import '../css/reset.css';
 @import '../fonts/fonts.css';
-@import '../../03-lection1/01-button/button.css';
+
+@import '../../components/page/page.css';
+@import '../../components/header/header.css';
+@import '../../components/main/main.css';
+@import '../../components/footer/footer.css';
+@import '../../components/container/container.css';
 
 :root {
     --white: #ffffff;
@@ -18,7 +23,11 @@
     --success: var(--blue);
 
     --primary: var(--blue);
+
     --secondary: var(--purple);
+
+    /* Контейнер */
+    --container-width: 1110px;
 }
 
 body {
