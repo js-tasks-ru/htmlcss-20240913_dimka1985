@@ -29,6 +29,10 @@
   display: none;
 }
 
+.accordion__item[open] {
+  padding-bottom: 32px;
+}
+
 .accordion__item[open] .accordion__summary {
   margin-bottom: 16px;
 }
